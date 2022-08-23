@@ -11,6 +11,7 @@
 		AD2AF97728B4D02100E9D0D0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2AF97628B4D02100E9D0D0 /* ContentView.swift */; };
 		AD2AF97928B4D02300E9D0D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD2AF97828B4D02300E9D0D0 /* Assets.xcassets */; };
 		AD2AF97C28B4D02300E9D0D0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD2AF97B28B4D02300E9D0D0 /* Preview Assets.xcassets */; };
+		AD2AF98328B4D08100E9D0D0 /* CustomColorPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2AF98228B4D08100E9D0D0 /* CustomColorPicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AD2AF97628B4D02100E9D0D0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AD2AF97828B4D02300E9D0D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD2AF97B28B4D02300E9D0D0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AD2AF98228B4D08100E9D0D0 /* CustomColorPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomColorPicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				AD2AF97428B4D02100E9D0D0 /* ColorPickerApp.swift */,
+				AD2AF98228B4D08100E9D0D0 /* CustomColorPicker.swift */,
 				AD2AF97628B4D02100E9D0D0 /* ContentView.swift */,
 				AD2AF97828B4D02300E9D0D0 /* Assets.xcassets */,
 				AD2AF97A28B4D02300E9D0D0 /* Preview Content */,
@@ -139,6 +142,7 @@
 			files = (
 				AD2AF97728B4D02100E9D0D0 /* ContentView.swift in Sources */,
 				AD2AF97528B4D02100E9D0D0 /* ColorPickerApp.swift in Sources */,
+				AD2AF98328B4D08100E9D0D0 /* CustomColorPicker.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
